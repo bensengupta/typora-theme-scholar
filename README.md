@@ -16,6 +16,11 @@ A simple improved Github theme for Typora.
 - Restart Typora.
 - Select `Scholar` theme in Typora.
 
+or with curl
+```bash
+curl -L https://github.com/bensengupta/typora-theme-scholar/releases/download/v1.0/typora-theme-scholar.tar.xz | tar xJ -C ~/.config/Typora/themes/scholar
+```
+
 ## Screenshots
 
 ### Scholar Theme
