@@ -66,6 +66,12 @@ var {
     "Andale Mono", "DejaVu Sans Mono", monospace;
 }
 
+/* mermaid font */
+#write .md-diagram-panel .md-diagram-panel-preview div {
+  font-family: "Rubik", "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica,
+    Arial, sans-serif;
+}
+
 #write {
   max-width: 860px;
   margin: 0 auto;
