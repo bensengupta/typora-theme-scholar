@@ -22,7 +22,7 @@ or with curl
 curl -L https://github.com/bensengupta/typora-theme-scholar/releases/download/v1.0/typora-theme-scholar.tar.xz | tar xJ -C ~/.config/Typora/themes
 ```
 
-## Comparaison
+## Comparison
 
 ### Scholar Theme
 
